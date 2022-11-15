@@ -5,7 +5,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args){
         ArrayList <Integer> data = new ArrayList<>();
-        File file = new File("src/Q7/Heba.txt");
+        File file = new File("src/Q7/ww.txt");
         PrintWriter out = null;
         Scanner in = null;
         if (file.exists()==false) {
